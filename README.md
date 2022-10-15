@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/957392106454929428)](https://discord.com/users/957392106454929428)
+
 <!--
 **Snazzy-xyz/Snazzy-xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
