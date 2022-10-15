@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fullstack developer ⚡
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/957392106454929428)](https://discord.com/users/957392106454929428)
 
